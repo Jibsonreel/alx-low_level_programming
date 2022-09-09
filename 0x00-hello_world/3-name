@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 
+=======
+#!/bin/bash
+gcc $CFILE -o cisfun
+>>>>>>> 6ff5b7f1ed6f45c8a03fc24659df22099ccf4d8e
