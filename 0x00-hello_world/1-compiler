@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 
+=======
+#!/bin/bash
+gcc -c $CFILE > $(echo $CFILE|cut -d"." -f1).o
+>>>>>>> ebe70cf25a39717ab239c430bee40232ca26c3ef
