@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 #include <stdio.h>
 /**
  * main- Entry point
@@ -21,4 +18,3 @@ int main(void)
 
 	return (0);
 }
->>>>>>> 997f077fda4ba238b45bed3ec90437acd8068721
