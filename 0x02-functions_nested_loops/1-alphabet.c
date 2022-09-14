@@ -1,19 +1,19 @@
-#include "main.h"
+#include"main.h"
 /**
- *print_alphabet-prints lowercase alphabet
- *Return: 0
- */
+*print_alphabet-printslowercase alphabet
+*Return:0
+*/
 
-void print_alphabet(void)
+voidprint_alphabet(void)
 {
- char j;
+charj;
 
- j = 'a';
+j= 'a';
 
- while (j <= 'z')
- {
- _putchar(j);
- j++;
- }
-  _putchar('\n');
+while(j <= 'z')
+{
+_putchar(j);
+j++;
+}
+_putchar('\n');
 }
