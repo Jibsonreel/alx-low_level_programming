@@ -1,6 +1,5 @@
+#include "main.h"
 
-<<<<<<< HEAD
-=======
 /**
  * print_alphabet_x10 - Prints alphabet 10 times in lowercases
  *
@@ -23,4 +22,3 @@ void print_alphabet_x10(void)
 		i++;
 	}
 }
->>>>>>> 14ab75701f023246719de9d2df6ed6d4add5d5a8
