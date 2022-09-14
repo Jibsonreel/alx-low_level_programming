@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 #include "main.h"
 
 /**
@@ -18,4 +16,3 @@ void print_alphabet(void)
 	}
 	_putchar('\n');
 }
->>>>>>> 69940f7ff3bc9f8a4cf023189f7a40d6e85ac92d
